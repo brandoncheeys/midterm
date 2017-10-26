@@ -1,0 +1,125 @@
+
+#title{
+	border-bottom: 1px solid black
+
+}
+
+#From{
+	padding-bottom: 2px;
+
+}
+
+#table{
+	padding-left: 0px;
+	height: 300px;
+	width:250px;
+	border: 1px solid black;
+	background-color: #BBCBDB;
+
+	
+	
+}
+
+#subs{
+	margin: 0px
+}
+
+#content{
+	text-align: center;
+}
+
+.subtitles{
+	border-bottom: 1px solid black;
+	width: 68%;
+}
+
+.subtitle1{
+	border-bottom: 1px solid black;
+	padding-top: 300px;
+}
+
+.subtitle2{
+	border-bottom: 1px solid black;
+	clear: all;
+}
+
+h3{
+
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ffcb85;
+}
+
+a:active {
+	color: yellow;
+}
+
+
+a:visited {
+	color: magenta;
+}
+
+.infobar{
+	width: 360px;
+	height: 1900px;
+	border: 1px solid black;
+	padding: 2px;
+	float: right;
+}
+
+
+#titleofpixel{
+	float: right;
+	font-size: 14px;
+}
+
+#pixeltitle{
+	text-align: center;
+	padding-top: 60px;
+}
+
+#first{
+	padding-top: 5px;
+	display: block;
+	margin: auto;
+	width: 90px;
+	height: 40px;
+}
+
+#second{
+	display: block;
+	margin: auto;
+	width: 250px;
+	height: 245px;
+}
+
+#caption{
+	text-align: center;
+}
+
+#Taimen{
+	float: right;
+}
+
+#italics{
+	font-style: italic;
+}
+
+#bold{
+	font-weight: bold;
+}
+
+/* position list chunks side by side */
+div.ref1
+{
+  float: left;
+  width: 40em;
+}
+
+/* clear float after lists */
+
