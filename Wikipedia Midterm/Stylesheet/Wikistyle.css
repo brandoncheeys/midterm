@@ -114,12 +114,9 @@ a:visited {
 	font-weight: bold;
 }
 
-/* position list chunks side by side */
 div.ref1
 {
   float: left;
   width: 40em;
 }
-
-/* clear float after lists */
 
